@@ -22,7 +22,7 @@
     "rollup-plugin-terser": "^7.0.2",
     "sync-version": "^1.0.1",
     "tiny-glob": "^0.2.9",
-    "web-ext": "^6.2.0",
+    "web-ext": "^7.2.0",
     "webext-menus": "^0.3.2"
   },
   "bugs": {
